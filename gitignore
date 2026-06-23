@@ -1,0 +1,5 @@
+.env
+project.env
+__pycache__/
+*.pyc
+validated_applicants_with_scores.csv
