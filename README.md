@@ -63,8 +63,4 @@ See [`sample_output.csv`](sample_output.csv) for an example of the final ranked 
 
 Built as a group project — data integration, eligibility validation, and scoring/ranking logic were split across team members.
 
-## What I'd improve next
 
-- Add automated tests for the scoring logic
-- Cache LLM responses to avoid re-scoring on reruns
-- Add a simple web UI for the organizer review step instead of a CLI prompt
