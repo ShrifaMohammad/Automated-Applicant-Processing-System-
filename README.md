@@ -14,9 +14,6 @@ An AI-powered candidate evaluation pipeline built for **Google Developer Student
 5. **Human-in-the-loop review** — prints a summary for the event organizer, who can `APPROVE`, `EDIT` (manually override eligibility/scores), or `REJECT` the batch before it's finalized
 6. **Exports final results** to a CSV file
 
-## Why I built it
-
-Manually screening and scoring dozens of event applications is slow and inconsistent between reviewers. This pipeline standardizes the process — using an LLM to fairly evaluate open-ended motivation text instead of just GPA — while still keeping a human organizer in control of the final decision.
 
 ## Tech stack
 
